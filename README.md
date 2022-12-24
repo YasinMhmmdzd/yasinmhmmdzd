@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Mohammadzade</h1>
 <h3 align="center">Junior web developer</h3>
 
-- 🌱 I’m currently learning **Django , python Machine Learning**
+- 🌱 I’m currently learning **Django , python Machine Learning , wordpress development**
 
 - 📫 How to reach me : **yasinmohammadzade85@gmail.com**
 
