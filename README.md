@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Mohammadzade</h1>
 <h3 align="center">Junior web developer</h3>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me : **yasinmohammadzade85work@gmail.com**
 
