@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Mohammadzade</h1>
-<h3 align="center">junior fullstack mern developer</h3>
+<h3 align="center">junior fullstack web developer</h3>
 
 - 🔭 I’m currently working on [Royan Holding](https://royan-holding.ir/)
 
