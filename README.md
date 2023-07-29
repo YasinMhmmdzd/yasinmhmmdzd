@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Royan Holding](https://royan-holding.ir/)
 
-- 🌱 I’m currently learning **ReactJS,Redux**
+- 🌱 I’m currently learning **Redux , TypeScript**
 
 - 💬 Ask me about **PHP , ReactJS**
 
